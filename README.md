@@ -1,2 +1,16 @@
-# Go-Metro-2028
-Improving Go Metro app for Vision 2028 and the Olympics
+# Go Metro 2028
+
+Go Metro 2028 is my capstone project, imagining ways to improve the Go Metro experience
+for the future, specifically in preparation for the summer Olympics games in 2028.
+
+This is a mockup / demo prototype of how the interface works and looks.
+
+To learn more about what Skrip.io does, visit my [website](https://www.davidnhuang.com/project/skrip-io/)
+
+## Project Detail
+###### Designer: David Huang.
+###### Developer: David Huang.
+###### Project start date: September 2018
+###### Tools: Origami Studio, Sketch
+---
+###### Copyright 2018. David Nai-Chun Huang
