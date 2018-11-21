@@ -5,8 +5,6 @@ for the future, specifically in preparation for the summer Olympics games in 202
 
 This is a mockup / demo prototype of how the interface works and looks.
 
-To learn more about what Skrip.io does, visit my [website](https://www.davidnhuang.com/project/skrip-io/)
-
 ## Project Detail
 ###### Designer: David Huang.
 ###### Developer: David Huang.
